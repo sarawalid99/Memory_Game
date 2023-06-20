@@ -1,6 +1,6 @@
 # Memory_Game
 
-Made by : [**Me**](https://github.com/sarawalid99), it was my first programm.
+Made by : [**Me**](https://github.com/sarawalid99), it was my first program.
 
 Requested by:  Dr. Mohammed El-Ramly in CS course.
 
